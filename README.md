@@ -60,3 +60,6 @@ service SushiService {
     rpc ListOrders (ListOrdersRequest) returns (ListOrdersResponse);
 }
 ```
+
+# Architecture
+![alt text](./Architecture.jpg)
